@@ -1,0 +1,6 @@
+*.pdf
+.typst-cache/
+*.typst/
+.DS_Store
+.vscode/
+.zed/
